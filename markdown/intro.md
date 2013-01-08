@@ -1,3 +1,8 @@
+« [previous](https://github.com/cbrandolino/the_fun_in_functions)
+| [index](https://github.com/cbrandolino/the_fun_in_functions)
+| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#chapter-1-where-we-are-introduced-to-first-class-function-gather-vital-supplies-and-implement-map) »
+
+
 ## Intro
 
 Our examples will all assume the following scenario.
@@ -30,7 +35,7 @@ The result of function evaluations is represented as follows:
     Math.floor(1.3);
     result: 1
 
-## Reading the guide
+### Reading the guide
 
 Many concepts will be introduced in each chapter; at the end of the chapter they will be summarized in a small **glossary** section.
 
@@ -45,3 +50,6 @@ use `Ctrl` + `Shift` + `i` to open the developer tools panel, and press `esc`
 to toggle the console.
 
 
+« [previous](https://github.com/cbrandolino/the_fun_in_functions)
+| [index](https://github.com/cbrandolino/the_fun_in_functions)
+| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#chapter-1-where-we-are-introduced-to-first-class-function-gather-vital-supplies-and-implement-map) »
