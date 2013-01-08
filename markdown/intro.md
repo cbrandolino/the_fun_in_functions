@@ -16,7 +16,7 @@ Zombies are mostly lazy by day, but definitely deadly by night.
 There is a scientist with us. He might find a cure for the zombie virus, given enough 
 time and the necessary instrumentation.
 
-## Conventions
+### Conventions
 
 This guide respects [Douglas Crockford's conventions on javascript syntax](http://javascript.crockford.com/code.html), since most other manuals follow
 them and we'd rather keep our personal and quite controversial opinions on
