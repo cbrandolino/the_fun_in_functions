@@ -1,21 +1,24 @@
 # The fun in functions (also, zombies)
 ## A practical beginner's guide to functional programming with Javascript.
 
+This guide is a work in progress. You're welcome to give feedback in the form
+of issues or pull requests and to follow the repository for updates.
+
 ## <a id="meta_index"></a>Index
 
 - [Meta](#the-fun-in-functions-also-zombies)
     - [Index](#index)
     - [Audience and scope](#audience-and-scope)
     - [Copyright](#copyright)
-- [Intro: Zombies](blob/master/markdown/intro.md#intro)
-    - [Conventions](blob/master/markdown/intro.md#conventions)
-    - [Reading the guide](blob/master/markdown/meta.md#reading-the-guide)
-- [Chapter 1: Where we are introduced to first-class function, gather vital supplies and implement map()](blob/master/markdown/c1.md)
-    - [Functions as arguments](blob/master/markdown/c1.md#functions-as-arguments)
-    - [The imperative approach](blob/master/markdown/c1.md#the-imperative-approach)
-    - [The functional approach](blob/master/markdown/meta.md#the-functional-approach)
-    - [Other uses of applyToEach](blob/master/markdown/c1.md#other-uses-of-applytoeach)
-    - [Glossary](blob/master/markdown/c1.md#glossary)
+- [Intro: Zombies](../blob/master/markdown/intro.md#intro)
+    - [Conventions](../blob/master/markdown/intro.md#conventions)
+    - [Reading the guide](../blob/master/markdown/meta.md#reading-the-guide)
+- [Chapter 1: Where we are introduced to first-class function, gather vital supplies and implement map()](../blob/master/markdown/c1.md)
+    - [Functions as arguments](../blob/master/markdown/c1.md#functions-as-arguments)
+    - [The imperative approach](../blob/master/markdown/c1.md#the-imperative-approach)
+    - [The functional approach](../blob/master/markdown/meta.md#the-functional-approach)
+    - [Other uses of applyToEach](../blob/master/markdown/c1.md#other-uses-of-applytoeach)
+    - [Glossary](../blob/master/markdown/c1.md#glossary)
 
 ## Audience and scope
 This guide is aimed at programmers with some basic experience of Javascript who:
