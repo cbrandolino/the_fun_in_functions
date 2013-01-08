@@ -10,7 +10,7 @@ of issues or pull requests and to follow the repository for updates.
     - [Index](#index)
     - [Audience and scope](#audience-and-scope)
     - [Copyright](#copyright)
-- [Intro: Zombies](https://github.com/cbrandolino/the_fun_in_functions/blob/master/intro.md#intro)
+- [Intro: Zombies](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#intro)
     - [Conventions](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#conventions)
     - [Reading the guide](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#reading-the-guide)
 - [Chapter 1: Where we are introduced to first-class function, gather vital supplies and implement map()](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md)
