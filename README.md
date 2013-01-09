@@ -13,12 +13,18 @@ of issues or pull requests and to follow the repository for updates.
 - [Intro: Zombies](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#intro)
     - [Conventions](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#conventions)
     - [Reading the guide](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/intro.md#reading-the-guide)
-- [Chapter 1: Where we are introduced to first-class function, gather vital supplies, implement map()](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md)
+- [Chapter 1: Where we are introduced to first-class functions, gather vital supplies, implement map()](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md)
     - [Functions as arguments](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#functions-as-arguments)
     - [The imperative approach](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#the-imperative-approach)
     - [The functional approach](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/meta.md#the-functional-approach)
     - [Other uses of applyToEach](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#other-uses-of-applytoeach)
     - [Glossary](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#glossary)
+- [Chapter 2: Where we chose the best supply points, learn about lambda functions, implement filter() and a functional max().](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md)
+    - [Filtering](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#filtering)
+    - [Finding the best candidate](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#finding-the-best-candidate)
+    - [A functional max](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#a-functional-max)
+    - [Glossary](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#glossary)
+
 
 ## Audience and scope
 This guide is aimed at programmers with some basic experience of Javascript who:

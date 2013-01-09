@@ -1,6 +1,6 @@
 « [previous](https://github.com/cbrandolino/the_fun_in_functions)
 | [index](https://github.com/cbrandolino/the_fun_in_functions)
-| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#chapter-1-where-we-are-introduced-to-first-class-function-gather-vital-supplies-and-implement-map) »
+| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md) »
 
 
 ## Intro
@@ -52,4 +52,4 @@ to toggle the console.
 
 « [previous](https://github.com/cbrandolino/the_fun_in_functions)
 | [index](https://github.com/cbrandolino/the_fun_in_functions)
-| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md#chapter-1-where-we-are-introduced-to-first-class-function-gather-vital-supplies-and-implement-map) »
+| [next](https://github.com/cbrandolino/the_fun_in_functions/blob/master/markdown/c1.md) »
